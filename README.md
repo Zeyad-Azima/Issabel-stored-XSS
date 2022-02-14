@@ -1,4 +1,4 @@
-# Issabel-stored-XSS
+# Issabel-stored-XSS(CVE-2021-46558.)
 Issabel PBX 20200102 is vulnerable to stored cross-site-scripting through add new user function
 
 # Reproduce
